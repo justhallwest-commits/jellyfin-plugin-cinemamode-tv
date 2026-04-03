@@ -1,0 +1,17 @@
+{
+  "guid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "name": "Cinema Mode TV",
+  "overview": "Cinema Mode for Movies and TV Shows",
+  "description": "Enable Cinema Mode with local trailers and pre-rolls for Movies AND TV Shows",
+  "owner": "justhallwest-commits",
+  "category": "General",
+  "versions": [
+    {
+      "version": "1.0.0.0",
+      "changelog": "Initial release - Movies and TV Shows support",
+      "targetAbi": "10.11.0.0",
+      "timestamp": "2026-04-02T00:00:00Z"
+    }
+  ],
+  "status": "Active"
+}
